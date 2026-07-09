@@ -1,0 +1,18 @@
+{
+    "title": "Deploy Checklist",
+    "items": [
+        {"id": 1,  "text": "Flash CircuitPython 9.x",  "checked": false},
+        {"id": 2,  "text": "Copy lib/ dependencies",   "checked": false},
+        {"id": 3,  "text": "Upload BDF font files",    "checked": false},
+        {"id": 4,  "text": "Format SD card FAT32",     "checked": false},
+        {"id": 5,  "text": "Write device.json",        "checked": false},
+        {"id": 6,  "text": "Write contact.json",       "checked": false},
+        {"id": 7,  "text": "Write qrcode.json",        "checked": false},
+        {"id": 8,  "text": "Write checklist.json",     "checked": false},
+        {"id": 9,  "text": "Test tab switching",       "checked": false},
+        {"id": 10, "text": "Test QR generation",       "checked": false},
+        {"id": 11, "text": "Test checklist persist",   "checked": false},
+        {"id": 12, "text": "Validate touch targets",   "checked": false},
+        {"id": 13, "text": "Build enclosure",          "checked": false}
+    ]
+}

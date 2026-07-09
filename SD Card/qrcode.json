@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "label": "Website",
+            "data": "https://neongrid.io"
+        },
+        {
+            "label": "WiFi Login",
+            "data": "WIFI:T:WPA;S:NeonGrid-5G;P:cyber2026;;"
+        },
+        {
+            "label": "vCard",
+            "data": "BEGIN:VCARD\nVERSION:3.0\nN:Chen;Alex\nORG:NeonGrid Labs\nEMAIL:alex@neongrid.io\nEND:VCARD"
+        },
+        {
+            "label": "GitHub",
+            "data": "https://github.com/alexchen"
+        }
+    ]
+}
